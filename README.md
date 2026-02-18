@@ -1,0 +1,1 @@
+Odin Recipes is a project compiling three recipes into a simple website using HTML. To code this website, I practiced using the command line and VSCode to create a repository and filling out the HTML boilerplate several times. I made use of headings, emphasizers, ordered and unordered lists, image embeds, and links to travel between the home page and each recipe.
